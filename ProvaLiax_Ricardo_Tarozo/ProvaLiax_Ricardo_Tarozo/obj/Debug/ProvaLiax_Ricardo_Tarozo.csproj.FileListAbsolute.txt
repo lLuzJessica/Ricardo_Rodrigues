@@ -1,0 +1,14 @@
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\bin\Debug\ProvaLiax_Ricardo_Tarozo.exe.config
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\bin\Debug\ProvaLiax_Ricardo_Tarozo.exe
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\bin\Debug\ProvaLiax_Ricardo_Tarozo.pdb
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\bin\Debug\MySql.Data.dll
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\bin\Debug\MySql.Data.xml
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\obj\Debug\ProvaLiax_Ricardo_Tarozo.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\obj\Debug\ProvaLiax_Ricardo_Tarozo.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\obj\Debug\ProvaLiax_Ricardo_Tarozo.csproj.CopyComplete
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\obj\Debug\ProvaLiax_Ricardo_Tarozo.exe
+C:\Users\Ricardo\source\repos\ProvaLiax_Ricardo_Tarozo\ProvaLiax_Ricardo_Tarozo\obj\Debug\ProvaLiax_Ricardo_Tarozo.pdb

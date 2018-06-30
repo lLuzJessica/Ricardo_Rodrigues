@@ -1,0 +1,7 @@
+C:\Users\Ricardo\source\repos\SequenciaDeFibonacci\CalculoDeFibonacci\bin\Debug\CalculoDeFibonacci.exe.config
+C:\Users\Ricardo\source\repos\SequenciaDeFibonacci\CalculoDeFibonacci\bin\Debug\CalculoDeFibonacci.exe
+C:\Users\Ricardo\source\repos\SequenciaDeFibonacci\CalculoDeFibonacci\bin\Debug\CalculoDeFibonacci.pdb
+C:\Users\Ricardo\source\repos\SequenciaDeFibonacci\CalculoDeFibonacci\obj\Debug\CalculoDeFibonacci.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\SequenciaDeFibonacci\CalculoDeFibonacci\obj\Debug\CalculoDeFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\SequenciaDeFibonacci\CalculoDeFibonacci\obj\Debug\CalculoDeFibonacci.exe
+C:\Users\Ricardo\source\repos\SequenciaDeFibonacci\CalculoDeFibonacci\obj\Debug\CalculoDeFibonacci.pdb
